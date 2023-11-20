@@ -1,0 +1,8 @@
+{
+	"name": "Auto Remove Label",
+	"author": "Sander Van Damme",
+	"description": "Automatically remove labels that are not in use.",
+	"version": 1.0,
+	"entrypoint": "AutoRemoveLabel",
+	"type": "user"
+}
